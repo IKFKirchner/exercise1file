@@ -1,7 +1,7 @@
 
 
 <title>Blacks left out of medical picture</title>
-<column>
+<cb n="1"/>
 <p>The serious shortage of physicians and
 dentists this nation laces is a fact acknowledged by federal experts and public
 alike. However, one of the least known
@@ -15,43 +15,53 @@ for every 1,750 Americans there is only
 one black dentist for every 10,000 black
 Americans.</p>
 <p>The crux of the problem is that there
-</column>
-<column>
+<cb n="2"/>
 are far too few black college students
 who enter medical and dental schools.
-There appear to be four principal rea­
-sons that these schools are not attract­
-ing a sufficient number of qualified Negro
+There appear to be four principal 
+<choice><orig>rea-<lb break="no"/>sons</orig><reg>reasons</reg></choice>
+that these schools are not 
+<choice><orig>attract-<lb break="no"/>ing</orig><reg>reasons</reg></choice>
+a sufficient number of qualified Negro
 applicants.
 The first reason is that among Negro
 college students, many lack the life-long
 academic preparation necessary to
-pursue the highly demanding and com­petitive pre-dental and pre-medical cur­ricula.
-Secondly, a lack of communication ex­ists between medical and dental schools
+pursue the highly demanding and 
+<choice><orig>com-<lb break="no"/>petitive</orig><reg>reasons</reg></choice> 
+pre-dental and pre-medical 
+<choice><orig>cur-<lb break="no"/>ricula</orig><reg>reasons</reg></choice>.
+Secondly, a lack of communication 
+<choice><orig>ex-<lb break="no"/>ists</orig><reg>reasons</reg></choice> 
+between medical and dental schools
 and black undergraduates, resulting in a
 belief among the latter that racial origin
-is a serious deterrent to a career in med­icine or dentistry.
+is a serious deterrent to a career in 
+<choice><orig>med-<lb break="no"/>icine</orig><reg>reasons</reg></choice>
+or dentistry.
 The third reason is that many black
-students feel the cost of dental or med­ical education would be prohibitive.
+students feel the cost of dental or 
+<choice><orig>med-<lb break="no"/>ical</orig><reg>reasons</reg></choice>
+education would be prohibitive.
 The fourth is that many black students
 are unaware of the opportunities which
 would be opened to them as physicians
 and dentists.</p>
 <p>We feel that these four reasons should
-not deter any black student on this cam­
-pus from the attainment of worthwhile
+not deter any black student on this 
+<choice><orig>cam-<lb break="no"/>pus</orig><reg>reasons</reg></choice>
+from the attainment of worthwhile
 careers in dentistry or medicine.
 For the black student who finds his
 background inadequate in any subject, he
 can readily obtain tutoring assistance by
-</column>
-<column>
+<cb n="3"/>
 contacting his instructor, the study skills
 program of the <orgName>Counseling Center</orgName>; the
-freshman hoaoraries, <orgName>Phi Eta Sigma</orgName> and
+freshman honoraries, <orgName>Phi Eta Sigma</orgName> and
 <orgName>Alpha Lambda Delta<orgName>; the honors dorms,
 <placeName><orgName>Cambridge A</placeName></orgName> and <placeName><orgName>Hagerstown sth</placeName></orgName>; the
-<orgName>Junior affiliates of the American Chem­
+Junior affiliates of the <orgName>American Chem­
 ical Society</orgName> and other departmental hon­
 oraries.
 For the black student who is concerned
@@ -75,8 +85,7 @@ boards certify Negro physicians as
 specialists without restrict!cm when
 they have met the respective training
 requirements and passed the examinations.
-</column>
-<column>
+<cb n="4"/>
 For the black student who needs finan­cial assistance, there are numerous
 awards available from professional
 schools, medical societies, Federal and
@@ -102,4 +111,4 @@ interested in these professions to investigate our programs.
 <persName>Charles Sneiderman</persName>
 <persName>Jeffery Blum</persName>
 <orgName>Pre-Medical societies and Pre-Dental</orgName></p>
-</column>
+
